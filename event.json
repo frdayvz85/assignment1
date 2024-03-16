@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name": "Test event 1",
+        "date": "2024-03-06",
+        "organizer": {
+            "name": "fdev",
+            "email": "fdev@example.com"
+        },
+        "status": "active",
+        "type": "event",
+        "joiners": [
+            {
+                "name": "Test User",
+                "email": "test@test.com",
+                "country": "Hungary"
+            }
+        ],
+        "location": "Budapest, Hungary",
+        "max_attendees": 100
+    }
+]
